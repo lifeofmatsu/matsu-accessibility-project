@@ -17,5 +17,7 @@ GitHub Repo: https://github.com/lifeofmatsu/matsu-accessibility-project.git
 
 
 ## Credits
-Starter Code provided by 
+Starter Code provided by The Coding Bootcamp.
+
 ## License
+MIT License
