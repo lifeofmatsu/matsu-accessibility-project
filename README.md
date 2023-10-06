@@ -1,4 +1,4 @@
-# matsu-accessibility-project
+# matsu-accessibility-project by Justin Ferrell
 ## Description
 UCSD Coding Challenge - Horiseon Social Solution Services
 
